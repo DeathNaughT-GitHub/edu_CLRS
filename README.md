@@ -1,5 +1,4 @@
 ## Topics
--------------------------
 
 ` If anyone can tabulate the following list into three columns, it would be of much help.`
 
