@@ -36,8 +36,8 @@ _To put a check on a box, replace its <kbd>&#9744</kbd> to <kbd>&#9745 / 46</kbd
 
 #### Resources - Blogs
 1. [Awesome Compettive Programming](https://github.com/lnishan/awesome-competitive-programming)
-2. [GeeksForGeeks - Exhaustiv List of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-3. [GeeksForGeeks - Exhaustiv List of Data Structures](https://www.geeksforgeeks.org/data-structures/)
+2. [GeeksForGeeks - Exhaustive List of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+3. [GeeksForGeeks - Exhaustive List of Data Structures](https://www.geeksforgeeks.org/data-structures/)
 4. [GeeksForGeeks - Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 5. [Sameer Gulati's List](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 6. [DP - Codechef Help](https://discuss.codechef.com/t/hello-there-i-am-having-hard-time-dealing-with-dp-problems-can-you-help-me-get-started-with-them/68110/7)
