@@ -4,8 +4,8 @@
   
 |   | <br><br><br> |  |  |
 |---|---|---|---|
-| 1. | <br>&#9744; The Language Competitive <br><br> Programmers talk in<br><br> | &#9744; Optimal BST | &#9744; Ford-Fullkerson's Algorithm |
-| 2. | <br>&#9744; Insertion Sort<br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
+| 1. | <br>&#9745; The Language Competitive <br><br> Programmers talk in<br><br> | &#9744; Optimal BST | &#9744; Ford-Fullkerson's Algorithm |
+| 2. | <br>&#9745; Insertion Sort [🔗]() <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
 | 3. | <br>&#9744; Merge Sort<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
 | 4. | <br>&#9744; Maximum Subarray Sum<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
 | 5. | <br>&#9744; Strassen's Algorithms<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
