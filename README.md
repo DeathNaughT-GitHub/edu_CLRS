@@ -11,7 +11,7 @@
 | 5. | <br>&#9744; Strassen's Algorithms<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
 | 6. | <br>&#9744; The Hiring Problem<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
 | 7. | <br>&#9744; Heaport<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
-| 8. | <br>&#9744; QuickSort<br><br> | #9744; B-Trees | &#9744; Modular Arithmetic |
+| 8. | <br>&#9744; QuickSort<br><br> | &#9744; B-Trees | &#9744; Modular Arithmetic |
 | 9. | <br>&#9744; Counting Sort<br><br> | &#9744; Fibonacci Heaps | &#9744; Pollard's Rho Heuterics |
 | 10. | <br>&#9744; Radix Sort<br><br> | &#9744; van Emde Boas Trees | &#9744; Rabin Carp's Algorithm |
 | 11. | <br>&#9744; Bucker Sort<br><br> | &#9744; Disjont Sets | &#9744; Knuth-Morris-Pratt's Algoritm |
