@@ -1,5 +1,6 @@
 ## Topics
 
+<kbd>
 
 |   | |   | |
 |---|---|---|---|
@@ -22,3 +23,5 @@
 | &#9744; AVL Trees | &#9744; D.F.S | &#9744; Knuth-Morris-Pratt's Algoritm |   |
 | &#9744; Order Statistics | &#9744; Topological Sort | &#9744; Line Segments in Problem Solving |   |
 | &#9744; Interval Trees | &#9744; Minimum Spanning Trees | &#9744; Convex Hull |   |
+
+</kbd>
