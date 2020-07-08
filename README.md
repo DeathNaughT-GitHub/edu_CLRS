@@ -26,9 +26,33 @@
 | 20. | <br>&#9744; Rod Cutting<br><br> | &#9744; Djikstra's Algorithm | &#9744; Subset Sum |
 | 21. | <br>&#9744; Matrix Chain Multiplication<br><br> | &#9744; Floyd-Warshall's Algorithm |  |
 | 22. | <br>&#9744; Longest Common Subsequence<br><br> | &#9744; Johnson's Algorithm |  |
-| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 </kbd>
 
-
+<br><br>
 > _To put a check on a box, replace its <kbd>&#9744</kbd> to <kbd>&#9745 / 46</kbd> through markdown._
+
+#### Resources - Blogs
+1. [Awesome Compettive Programming](https://github.com/lnishan/awesome-competitive-programming)
+2. [GeeksForGeeks - Exhaustiv List of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+3. [GeeksForGeeks - Exhaustiv List of Data Structures](https://www.geeksforgeeks.org/data-structures/)
+4. [GeeksForGeeks - Graph Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+5. [Sameer Gulati's List](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
+6. [DP - Codechef Help](https://discuss.codechef.com/t/hello-there-i-am-having-hard-time-dealing-with-dp-problems-can-you-help-me-get-started-with-them/68110/7)
+7. [Curated by Codechef Community](https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717)
+8. [Curated by Codeforces Community](http://codeforces.com/blog/entry/13529)
+8. [Codechef Certification](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+
+#### Resources - Books
+1. [Introduction to Algorithms]()
+2. [Design and Analysis](http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
+
+#### Practice Sets
+1. [CSES List](https://cses.fi/problemset/list)
+2. [A2OJ](https://a2oj.com/ladders)
+3. [Ibraahim Saad](https://docs.google.com/spreadsheets/d/1SYsihU8c29GM8dsyZdniAbrLKSHLHYUZrguvOok3B1s/edit?usp=sharing)
+
+#### Personal Roadmap
+1. [Preparing](https://www.protectedtext.com/roadmap-red)
+2. [Technique](https://www.protectedtext.com/techniques-red)
