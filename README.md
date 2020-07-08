@@ -1,68 +1,24 @@
 ## Topics
 
-` If anyone can tabulate the following list into three columns, it would be of much help.`
+| | | | |
+| :-- | :-- | :-- | :-- |
+| The Language Competitive Programmers talk in | Rod Cutting | Kruskal's Algorithm | Closest Pairs |
+| Insertion Sort | Matrix Chain Multiplication | Prim's Algorithm | NP - P Completeness |
+| Merge Sort | Longest Common Subsequence | Bellman-Ford's Algorithm | Hamiltonian Cycles |
+|  Maximum Subarray Sum | Optimal BST | Djikstra's Algorithm | The Clique Problem |
+| Strassen's Algorithms | The Activity Selection Problem | Floyd-Warshall's Algorithm | Vertex Cover |
+| The Hiring Problem | 0-1 Knapsack | Johnson's Algorithm | The Travelling Salesman Problem |
+| Heaport | Fractional Knapsack | Ford-Fullkerson's Algorithm | Subset Sum |
+| QuickSort | Hoffman's code | Maximum Bipartite | |
+| Counting Sort | Matroids | Multithreading Basics | |
+| Radix Sort | Dynamic Tables | Linear Equalities and LPP | |
+| Bucker Sort | B-Trees | The Simplex Algorithm | |
+| Stacks & Queues | Fibonacci Heaps | Fourier Transforms | |
+| Linked List | van Emde Boas Trees | G.C.D | |
+| Hash Tables & Hashing | Disjont Sets | Modular Arithmetic | |
+| Binary Search Trees | Graph Representation | Pollard's Rho Heuterics | |
+| Red Black Trees | B.F.S | Rabin Carp's Algorithm | |
+| AVL Trees | D.F.S | Knuth-Morris-Pratt's Algoritm | |
+| Order Statistics | Topological Sort | Line Segments in Problem Solving | |
+| Interval Trees | Minimum Spanning Trees | Convex Hull | |
 
-- [x] The Language Competitive Programmers talk in
-- [ ] Insertion Sort
-- [ ] Merge Sort
-- [ ]  Maximum Subarray Sum
-- [ ] Strassen's Algorithms 
-- [ ] The Hiring Problem
-- [ ] Heaport 
-- [ ] QuickSort
-- [ ] Counting Sort
-- [ ] Radix Sort
-- [ ] Bucker Sort
-- [ ] Stacks & Queues
-- [ ] Linked List
-- [ ] Hash Tables & Hashing
-- [ ] Binary Search Trees
-- [ ] Red Black Trees
-- [ ] AVL Trees
-- [ ] Order Statistics
-- [ ] Interval Trees
-- [ ] Rod Cutting
-- [ ] Matrix Chain Multiplication
-- [ ] Longest Common Subsequence
-- [ ] Optimal BST
-- [ ] The Activity Selection Problem
-- [ ] 0-1 Knapsack
-- [ ] Fractional Knapsack
-- [ ] Hoffman's code
-- [ ] Matroids
-- [ ] Dynamic Tables
-- [ ] B-Trees
-- [ ] Fibonacci Heaps
-- [ ] van Emde Boas Trees
-- [ ] Disjont Sets
-- [ ] Graph Representation
-- [ ] B.F.S
-- [ ] D.F.S
-- [ ] Topological Sort
-- [ ] Minimum Spanning Trees
-- [ ] Kruskal's Algorithm
-- [ ] Prim's Algorithm
-- [ ] Bellman-Ford's Algorithm
-- [ ] Djikstra's Algorithm
-- [ ] Floyd-Warshall's Algorithm
-- [ ] Johnson's Algorithm
-- [ ] Ford-Fullkerson's Algorithm
-- [ ] Maximum Bipartite
-- [ ] Multithreading Basics
-- [ ] Linear Equalities and LPP
-- [ ] The Simplex Algorithm
-- [ ] Fourier Transforms
-- [ ] G.C.D
-- [ ] Modular Arithmetic
-- [ ] Pollard's Rho Heuterics
-- [ ] Rabin Carp's Algorithm
-- [ ] Knuth-Morris-Pratt's Algoritm
-- [ ] Line Segments in Problem Solving
-- [ ] Convex Hull
-- [ ] Closest Pairs
-- [ ] NP - P Completeness
-- [ ] Hamiltonian Cycles
-- [ ] The Clique Problem
-- [ ] Vertex Cover
-- [ ] The Travelling Salesman Problem
-- [ ] Subset Sum
