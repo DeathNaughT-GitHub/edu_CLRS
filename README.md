@@ -31,7 +31,8 @@
 </kbd>
 
 <br><br>
-> _To put a check on a box, replace its <kbd>&#9744</kbd> to <kbd>&#9745 / 46</kbd> through markdown._
+_To put a check on a box, replace its <kbd>&#9744</kbd> to <kbd>&#9745 / 46</kbd> through markdown._
+<br>
 
 #### Resources - Blogs
 1. [Awesome Compettive Programming](https://github.com/lnishan/awesome-competitive-programming)
