@@ -1,10 +1,10 @@
 import java.util.Scanner;
-class _insertionSort {
+class _insertionSort extends Array {
     public static void main(String[]args)throws java.lang.Exception {
         Scanner sc = new Scanner(System. in);
         int T = sc.nextInt();
         while (T-- > 0) {
-            Data ins = new Data();
+            Array ins = new Array();
 
             ins.size = sc.nextInt();
             ins.arr = new int[ins.size];
@@ -36,9 +36,4 @@ class _insertionSort {
             .out
             .println();
     }
-}
-
-class Data {
-    int size;
-    int arr[];
 }
