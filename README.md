@@ -5,9 +5,9 @@
 |   | <br><br><br> |  |  |
 |---|---|---|---|
 | 1. | <br>&#9745; The Language Competitive <br><br> Programmers talk in<br><br> | &#9744; Optimal BST | &#9744; Ford-Fullkerson's Algorithm |
-| 2. | <br>&#9745; Insertion Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/Source%20Codes/_insertionSort.java) <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
-| 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/Source%20Codes/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
-| 4. | <br>&#9744; Maximum Subarray Sum<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
+| 2. | <br>&#9745; Insertion Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/_insertionSort.java) <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
+| 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
+| 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
 | 5. | <br>&#9744; Strassen's Algorithms<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
 | 6. | <br>&#9744; The Hiring Problem<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
 | 7. | <br>&#9744; Heaport<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
