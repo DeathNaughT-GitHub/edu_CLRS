@@ -1,17 +1,19 @@
+package Book;
+
 import java.util.Scanner;
 
-class _mergeSort extends Array {
+class _mergeSort {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
-        Array ms = new Array(size);
-
-        for (int i = 0; i < size; i++) {
-            ms.arr[i] = sc.nextInt();
-        }
-        divide(ms.arr, 0, ms.size - 1);
-
-        ms.display();
+        int arr[] = new int[size];
+        for (int i = 0; i < size; i++)
+            arr[i] = sc.nextInt();
+        divide(arr, 0, size - 1);
+        for (int i = 0; i < size; i++)
+            System.out.print(arr[i] + " ");
+        System.out.println();
+        sc.close();
     }
 
     public static void divide(int arr[], int start, int end) {
@@ -26,15 +28,12 @@ class _mergeSort extends Array {
     public static void merge(int arr[], int start, int mid, int end) {
         int len1 = mid - start + 1;
         int len2 = end - mid;
-
         int L[] = new int[len1];
         int R[] = new int[len2];
-
         for (int i = 0; i < len1; i++)
             L[i] = arr[i + start];
         for (int j = 0; j < len2; j++)
             R[j] = arr[j + mid + 1];
-
         int i = 0, j = 0, k = start;
         while (i < len1 && j < len2) {
             if (L[i] < R[j]) {
@@ -47,13 +46,10 @@ class _mergeSort extends Array {
             k++;
         }
 
-        while (i < len1) {
+        while (i < len1)
             arr[k++] = L[i++];
-        }
 
-        while (j < len2) {
+        while (j < len2)
             arr[k++] = R[j++];
-        }
-
     }
 }

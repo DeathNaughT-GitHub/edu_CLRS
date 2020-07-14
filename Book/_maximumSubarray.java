@@ -1,17 +1,21 @@
+package Book;
+
 import java.util.Scanner;
-class _maximumSubarray extends Array {
+class _maximumSubarray {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System. in);
         int size = sc.nextInt();
-        Array max = new Array(size);
+        int arr[] = new int[size];
 
         for (int i = 0; i < size; i++) {
-            max.arr[i] = sc.nextInt();
+            arr[i] = sc.nextInt();
         }
 
-        Tuple tup = findMaxSub(max.arr, 0, max.size - 1);
+        Tuple tup = findMaxSub(arr, 0, size - 1);
 
         System.out.println(tup.sum + " running from index: " + tup.x + " to " + tup.y);
+
+        sc.close();
 
     }
 
