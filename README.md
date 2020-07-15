@@ -1,3 +1,8 @@
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Algorithms-CLRS-red" alt="CLRS"></a>
+  <a href="https://github.com/singhayushh/_algorithms/stargazers"><img src="https://img.shields.io/github/stars/singhayushh/_algorithms?color=green&label=Stargazers&logo=github" alt="stargazers"></a>
+</p>
+
 ## Topics
 
 <kbd>
