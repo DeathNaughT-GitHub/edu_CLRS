@@ -30,6 +30,7 @@ class _heapSort {
 
         if (l < heapSize && arr[l] > arr[index]) 
             largest = l;
+            
         else if (r < heapSize && arr[r] > arr[index]) 
             largest = r;
         
