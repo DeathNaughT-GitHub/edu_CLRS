@@ -17,7 +17,11 @@ class _randomize {
 
   }
 
-  private static void 
+  private static void permuteBySorting(int arr[]) {
+
+    
+
+  }
 
   private static void display(int[] arr) {
 

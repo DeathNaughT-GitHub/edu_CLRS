@@ -8,7 +8,7 @@
 | 2. | <br>&#9745; Insertion Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_insertionSort.java) <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
 | 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
 | 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
-| 5. | <br>&#9744; Strassen's Algorithm [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_strassen.java)<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
+| 5. | <br>&#9745; Strassen's Algorithm [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_strassen.java)<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
 | 6. | <br>&#9744; Randomized Algorithms [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_randomize.java)<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
 | 7. | <br>&#9744; Heaport<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
 | 8. | <br>&#9744; QuickSort<br><br> | &#9744; B-Trees | &#9744; Modular Arithmetic |
