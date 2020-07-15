@@ -4,7 +4,7 @@
   
 |   | <br><br><br> |  |  |
 |---|---|---|---|
-| 1. | <br>&#9745; The Language Competitive <br><br> Programmers talk in<br><br> | &#9744; Optimal BST | &#9744; Ford-Fullkerson's Algorithm |
+| 1. | <br>&#9745; The Language Competitive <br> Programmers talk in<br><br> | &#9744; Optimal BST | &#9744; Ford-Fullkerson's Algorithm |
 | 2. | <br>&#9745; Insertion Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_insertionSort.java) <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
 | 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
 | 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
