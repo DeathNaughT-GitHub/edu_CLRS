@@ -5,11 +5,11 @@
 |   | <br><br><br> |  |  |
 |---|---|---|---|
 | 1. | <br>&#9745; The Language Competitive <br><br> Programmers talk in<br><br> | &#9744; Optimal BST | &#9744; Ford-Fullkerson's Algorithm |
-| 2. | <br>&#9745; Insertion Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/_insertionSort.java) <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
-| 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
-| 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/July'20/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
-| 5. | <br>&#9744; Strassen's Algorithms<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
-| 6. | <br>&#9744; The Hiring Problem<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
+| 2. | <br>&#9745; Insertion Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_insertionSort.java) <br><br> | &#9744; The Activity Selection Problem | &#9744; Maximum Bipartite |
+| 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
+| 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
+| 5. | <br>&#9744; Strassen's Algorithm [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_strassen.java)<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
+| 6. | <br>&#9744; Randomized Algorithms [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_randomize.java)<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
 | 7. | <br>&#9744; Heaport<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
 | 8. | <br>&#9744; QuickSort<br><br> | &#9744; B-Trees | &#9744; Modular Arithmetic |
 | 9. | <br>&#9744; Counting Sort<br><br> | &#9744; Fibonacci Heaps | &#9744; Pollard's Rho Heuterics |
@@ -33,6 +33,7 @@
 <br><br>
 _To put a check on a box, replace its <kbd>&#9744</kbd> to <kbd>&#9745 / 46</kbd> through markdown._
 <br>
+Solutions to the Exercises: [Walkccc - Github](https://walkccc.github.io/CLRS)
 
 #### Resources - Blogs
 1. [Awesome Compettive Programming](https://github.com/lnishan/awesome-competitive-programming)
