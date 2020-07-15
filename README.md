@@ -9,7 +9,7 @@
 | 3. | <br>&#9745; Merge Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_mergeSort.java)<br><br> | &#9744; 0-1 Knapsack | &#9744; Multithreading Basics |
 | 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
 | 5. | <br>&#9745; Strassen's Algorithm [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_strassen.java)<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
-| 6. | <br>&#9744; Randomized Algorithms [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_randomize.java)<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
+| 6. | <br>&#9745; Randomized Algorithms<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
 | 7. | <br>&#9744; Heaport<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
 | 8. | <br>&#9744; QuickSort<br><br> | &#9744; B-Trees | &#9744; Modular Arithmetic |
 | 9. | <br>&#9744; Counting Sort<br><br> | &#9744; Fibonacci Heaps | &#9744; Pollard's Rho Heuterics |
@@ -36,6 +36,7 @@ _To put a check on a box, replace its <kbd>&#9744</kbd> to <kbd>&#9745 / 46</kbd
 Solutions to the Exercises: [Walkccc - Github](https://walkccc.github.io/CLRS)
 
 #### Resources - Blogs
+
 1. [Awesome Compettive Programming](https://github.com/lnishan/awesome-competitive-programming)
 2. [GeeksForGeeks - Exhaustive List of Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 3. [GeeksForGeeks - Exhaustive List of Data Structures](https://www.geeksforgeeks.org/data-structures/)
@@ -44,17 +45,20 @@ Solutions to the Exercises: [Walkccc - Github](https://walkccc.github.io/CLRS)
 6. [DP - Codechef Help](https://discuss.codechef.com/t/hello-there-i-am-having-hard-time-dealing-with-dp-problems-can-you-help-me-get-started-with-them/68110/7)
 7. [Curated by Codechef Community](https://discuss.codechef.com/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717)
 8. [Curated by Codeforces Community](http://codeforces.com/blog/entry/13529)
-8. [Codechef Certification](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+9. [Codechef Certification](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
 
 #### Resources - Books
+
 1. [Introduction to Algorithms]()
 2. [Design and Analysis](http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html)
 
 #### Practice Sets
+
 1. [CSES List](https://cses.fi/problemset/list)
 2. [A2OJ](https://a2oj.com/ladders)
 3. [Ibraahim Saad](https://docs.google.com/spreadsheets/d/1SYsihU8c29GM8dsyZdniAbrLKSHLHYUZrguvOok3B1s/edit?usp=sharing)
 
 #### Personal Roadmap
+
 1. [Preparing](https://www.protectedtext.com/roadmap-red)
 2. [Technique](https://www.protectedtext.com/techniques-red)
