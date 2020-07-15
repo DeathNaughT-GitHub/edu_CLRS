@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 class _mergeSort {
 
+  static Scanner sc = new Scanner (System.in);
+
   public static void main(String args[]) {
-    Scanner sc = new Scanner(System.in);
 
     int size = sc.nextInt();
     int arr[] = readArray(size);

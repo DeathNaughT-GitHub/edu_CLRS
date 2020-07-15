@@ -2,11 +2,12 @@ import java.util.Scanner;
 
 class _insertionSort {
 
+  static Scanner sc = new Scanner(System.in);
+
   public static void main(String[] args) throws java.lang.Exception {
-    Scanner sc = new Scanner(System.in);
 
     int size = sc.nextInt();
-    int arr[] = readArray(arr);
+    int arr[] = readArray(size);
 
     int result[] = insertionSort(arr);
 
