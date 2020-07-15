@@ -10,7 +10,7 @@
 | 4. | <br>&#9745; Maximum Subarray Sum [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_maximumSubarray.java)<br><br> | &#9744; Fractional Knapsack | &#9744; Linear Equalities and LPP |
 | 5. | <br>&#9745; Strassen's Algorithm [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_strassen.java)<br><br> | &#9744; Hoffman's code | &#9744; The Simplex Algorithm |
 | 6. | <br>&#9745; Randomized Algorithms [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_random.java)<br><br> | &#9744; Matroids | &#9744; Fourier Transforms |
-| 7. | <br>&#9745; Heapsort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_heapSort.java)<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
+| 7. | <br>&#9745; Heap Sort [🔗](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/Book/_heapSort.java)<br><br> | &#9744; Dynamic Tables | &#9744; G.C.D |
 | 8. | <br>&#9744; QuickSort<br><br> | &#9744; B-Trees | &#9744; Modular Arithmetic |
 | 9. | <br>&#9744; Counting Sort<br><br> | &#9744; Fibonacci Heaps | &#9744; Pollard's Rho Heuterics |
 | 10. | <br>&#9744; Radix Sort<br><br> | &#9744; van Emde Boas Trees | &#9744; Rabin Carp's Algorithm |
