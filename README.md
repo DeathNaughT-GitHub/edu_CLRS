@@ -3,6 +3,7 @@
   <a href="https://github.com/singhayushh/_algorithms/network/members"><img src="https://img.shields.io/github/repo-size/singhayushh/_algorithms?label=Repo%20Size"></a>
   <a href="https://github.com/singhayushh/_algorithms#catalogue"><img src="https://img.shields.io/badge/Progress-15/64-safron" alt="CLRS"></a>
   <a href="https://github.com/singhayushh/_algorithms/tree/master/src"><img src="https://img.shields.io/github/languages/top/singhayushh/_algorithms?color=orange&label=Java" alt="CLRS"></a>
+  <a href="https://github.com/singhayushh/_algorithms/commits/master"><img src="https://img.shields.io/github/last-commit/singhayushh/_algorithms?color=blueviolet" alt="CLRS"></a>
   <a href="https://github.com/singhayushh/_algorithms/stargazers"><img src="https://img.shields.io/github/stars/singhayushh/_algorithms?color=yellowgreen&label=Stargazers&logo=github" alt="stargazers"></a>
 </p>
 
