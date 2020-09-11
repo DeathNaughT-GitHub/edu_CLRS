@@ -3,15 +3,14 @@
   <a href="https://github.com/singhayushh/_algorithms/network/members"><img src="https://img.shields.io/github/repo-size/singhayushh/_algorithms?label=Repo%20Size"></a>
   <a href="https://github.com/singhayushh/_algorithms#catalogue"><img src="https://img.shields.io/badge/Progress-15/64-safron" alt="CLRS"></a>
   <a href="https://github.com/singhayushh/_algorithms/tree/master/src"><img src="https://img.shields.io/github/languages/top/singhayushh/_algorithms?color=orange&label=Java" alt="CLRS"></a>
-  <a href="https://github.com/singhayushh/_algorithms/commits/master"><img src="https://img.shields.io/github/last-commit/singhayushh/_algorithms?color=blueviolet" alt="CLRS"></a>
   <a href="https://github.com/singhayushh/_algorithms/stargazers"><img src="https://img.shields.io/github/stars/singhayushh/_algorithms?color=yellowgreen&label=Stargazers&logo=github" alt="stargazers"></a>
 </p>
 
 ## About this Repository
+A personal help-page for preparing Data Structures and Algorithms, focusing on the CLRS Book...
 
-This repository is the storehouse of the implementations of various algorithms from the `Introduction-To-Algorithms` in java syntax.
-
-In case, you find any bugs or have any improvements to make, feel free to contribute. I haven't tested the programs for a wide range of input.
+The `/src` directory is where the implementations of various algorithms are being added.
+This `README.md` file is for listing data-structures and algorithms, not necessarily from the book.
 
 ## Quick Peek
 
