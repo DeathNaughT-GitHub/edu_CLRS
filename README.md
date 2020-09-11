@@ -10,6 +10,7 @@
 A personal help-page for preparing Data Structures and Algorithms, focusing on the CLRS Book...
 
 The `/src` directory is where the implementations of various algorithms are being added.
+
 This `README.md` file is for listing data-structures and algorithms, not necessarily from the book.
 
 ## Quick Peek
@@ -122,9 +123,9 @@ Solutions to the Exercises: [Walkccc - Github](https://walkccc.github.io/CLRS)
 3. [Ibraahim Saad](https://docs.google.com/spreadsheets/d/1SYsihU8c29GM8dsyZdniAbrLKSHLHYUZrguvOok3B1s/edit?usp=sharing)
 
 ## Personal Roadmap
-
-1. [Preparing](https://www.protectedtext.com/roadmap-red)
-2. [Technique](https://www.protectedtext.com/techniques-red)
+> Personal
+1. [Preparation](https://www.protectedtext.com/roadmap-red)
+2. [Practice](https://www.protectedtext.com/techniques-red)
 
 ## Repo Utilities
 1. [Gitmoji](https://gitmoji.carloscuesta.me/)
