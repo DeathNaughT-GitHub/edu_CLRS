@@ -73,7 +73,7 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 44. | &#9744; Johnson's Algorithm |
 | 45. | &#9744; Ford-Fullkerson's Algorithm |
 | 46. | &#9744; Maximum Bipartite |
-| 47. | &#9744; Multithreading Basics |
+| 47. | &#9745; [Multithreading Basics](https://github.com/singhayushh/_Introduction_to_algorithms/blob/master/src/MultiThreading.java) |
 | 48. | &#9744; Linear Equalities and LPP |
 | 49. | &#9744; The Simplex Algorithm |
 | 50. | &#9744; Fourier Transforms |
