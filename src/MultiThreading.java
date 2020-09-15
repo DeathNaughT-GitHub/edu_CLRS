@@ -1,3 +1,4 @@
+//TO RUN CODE VISIT - https://repl.it/repls/SadSoupyStructure#Main.java
 class MULTITHREAD implements Runnable {
    private Thread thread;
    private String Name;
@@ -29,7 +30,7 @@ class MULTITHREAD implements Runnable {
    }
 }
 
-public class TestThread {
+public class Main {
 
    public static void main(String args[]) {
       MULTITHREAD M1 = new MULTITHREAD( "Thread 1");
