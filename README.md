@@ -6,6 +6,8 @@
   <a href="https://github.com/singhayushh/_algorithms/stargazers"><img src="https://img.shields.io/github/stars/singhayushh/_algorithms?color=yellowgreen&label=Stargazers&logo=github" alt="stargazers"></a>
 </p>
 
+> Accepting PRs only for the issue [#1](https://github.com/singhayushh/book_CLRS/issues/1). Please do not send solution codes for any algorithms :)
+
 ## About this Repository
 A personal help-page for preparing Data Structures and Algorithms, focusing on the CLRS Book...
 
