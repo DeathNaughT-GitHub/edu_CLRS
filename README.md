@@ -93,6 +93,18 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 62. | &#9744; Vertex Cover |
 | 63. | &#9744; The Travelling Salesman Problem |
 | 64. | &#9744; Subset Sum |
+| 65. | &#9744; Bogo sort|
+| 66. | &#9744; Sieve_of_Eratosthenes |
+| 67. | &#9744; Bead sort|
+| 68. | &#9744; Bionic sort|
+| 69. | &#9744; BinaryInsertion sort|
+| 70. | &#9744; Comb sort|
+| 71. | &#9744; Cocktail sort|
+| 72. | &#9744; Cycle sort|
+| 73. | &#9744; Gnome sort|
+| 74. | &#9744; PigeonHole sort|
+| 75. | &#9744; Tim sort|
+| 76. | &#9744; shell sort|
 
 
 <br>
