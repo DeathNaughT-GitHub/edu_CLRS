@@ -105,6 +105,7 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 74. | &#9744; PigeonHole sort|
 | 75. | &#9744; Tim sort|
 | 76. | &#9744; shell sort|
+| 77. | &#9744; Trie tree|
 
 
 <br>
