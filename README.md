@@ -105,8 +105,14 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 74. | &#9744; PigeonHole sort|
 | 75. | &#9744; Tim sort|
 | 76. | &#9744; Shell sort|
-| 77. | &#9744; Trie tree|
-
+| 77. | &#9744; Wave array|
+| 78. | &#9744; Trapping rainwater|
+| 79. | &#9744; LRU cache implementation|
+| 80. | &#9744; Path sum binary tree|
+| 81. | &#9744; Sliding window maximum|
+| 82. | &#9744; Invert binary tree|
+| 84. | &#9744; Climbing stairs problem|
+| 85. | &#9744; Trie tree|
 
 <br>
 
