@@ -104,16 +104,14 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 73. | &#9744; Gnome sort|
 | 74. | &#9744; PigeonHole sort|
 | 75. | &#9744; Tim sort|
-| 76. | &#9744; shell sort|
-| 77. | &#9744; spiral matrix|
-| 78. | &#9744; wave array|
-| 79. | &#9744; Trapping rainwater|
-| 80. | &#9744; LRU cache implementation|
-| 81. | &#9744; Path sum binary tree|
-| 82. | &#9744; sliding window maximum|
-| 83. | &#9744; Invert binary tree|
-| 84. | &#9744; shell sort|
-| 85. | &#9744; climbing stairs problem|
+| 76. | &#9744; Shell sort|
+| 77. | &#9744; wave array|
+| 78. | &#9744; Trapping rainwater|
+| 79. | &#9744; LRU cache implementation|
+| 80. | &#9744; Path sum binary tree|
+| 81. | &#9744; Sliding window maximum|
+| 82. | &#9744; Invert binary tree|
+| 84. | &#9744; Climbing stairs problem|
 <br>
 
 Solutions to the Exercises: [Walkccc - Github](https://walkccc.github.io/CLRS)
