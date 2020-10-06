@@ -113,6 +113,7 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 82. | &#9744; Invert binary tree|
 | 84. | &#9744; Climbing stairs problem|
 | 85. | &#9744; Trie tree|
+| 86. | &#9744; Fibonacci Search|
 
 <br>
 
