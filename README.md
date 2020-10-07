@@ -116,6 +116,10 @@ This `README.md` file is for listing data-structures and algorithms, not necessa
 | 84. | &#9744; Climbing stairs problem|
 | 85. | &#9744; Trie tree|
 | 86. | &#9744; Fibonacci Search|
+| 87. | &#9744; Round Robin scheduling|
+| 88. | &#9744; Shortest-Job-First (SJF) Scheduling|
+| 89. | &#9744; Multilevel Queue Scheduling|
+| 90. | &#9744; Priority Scheduling|
 
 <br>
 
