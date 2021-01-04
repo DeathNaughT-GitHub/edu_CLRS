@@ -7,7 +7,7 @@
 </p>
 
 ```diff
-- Accepting PRs only for the issue #1. Please do not send solution codes for any algorithms :)
+- Not Accepting any PRs
 ```
 
 ## About this Repository
