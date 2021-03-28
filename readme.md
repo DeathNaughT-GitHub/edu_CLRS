@@ -3,9 +3,7 @@
   <a href="https://github.com/singhayushh/_algorithms/tree/master/src"><img src="https://img.shields.io/github/languages/top/singhayushh/_algorithms?color=orange&label=Java" alt="CLRS"></a>
 </p>
 
-```diff
-- Please don't send PRs for solution codes. You may contribute to the algorithm table below.
-```
+> Please don't send PRs for solution codes. You may contribute to the algorithm table below.
 
 ## Quick Peek
 
