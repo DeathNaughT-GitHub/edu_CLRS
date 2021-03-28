@@ -65,7 +65,7 @@
 | 42. | &#9744; Djikstra's Algorithm | | 87. | &#9744; Shortest-Job-First (SJF) Scheduling|
 | 43. | &#9744; Floyd-Warshall's Algorithm | | 88. | &#9744; Multilevel Queue Scheduling|
 | 44. | &#9744; Johnson's Algorithm | | 89. | &#9744; Priority Scheduling|
-| 45. | &#9744; Ford-Fullkerson's Algorithm |
+| 45. | &#9744; Ford-Fullkerson's Algorithm | &nbsp;    &nbsp; | | |
 
 <br>
 
